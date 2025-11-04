@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 130 50">
+  <!-- Generator: Adobe Illustrator 30.0.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 123)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #b12024;
+        stroke-miterlimit: 10;
+      }
+
+      .st1 {
+        fill: #878787;
+        font-family: AvenirNext-DemiBoldItalic, 'Avenir Next';
+        font-size: 15px;
+        font-style: italic;
+        font-weight: 300;
+      }
+
+      .st2 {
+        font-family: AvenirNext-UltraLight, 'Avenir Next';
+        font-size: 18px;
+        font-weight: 100;
+      }
+
+      .st3 {
+        fill: #b12024;
+        font-family: KaushanScript-Regular, 'Kaushan Script';
+        font-size: 40px;
+      }
+    </style>
+  </defs>
+  <rect class="st0" x=".8" y="1" width="48" height="48"/>
+  <text class="st3" transform="translate(-.2 38.3)"><tspan x="0" y="0">Hd</tspan></text>
+  <text class="st2" transform="translate(63.8 42)"><tspan x="0" y="0">DESIGN</tspan></text>
+  <text class="st1" transform="translate(65.8 27.2)"><tspan x="0" y="0">Hire</tspan></text>
+</svg>
